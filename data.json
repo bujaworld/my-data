@@ -3,6 +3,7 @@
     "categoryEmoji": "💰",
     "keywords": {
       "실업급여": {
+        "emoji": "💸",
         "link": "https://homepagehub.bujaworld.com/2025/05/hub1_12.html",
         "buttons": [
           {"name": "실업급여 온라인 신청", "url": "https://example.com/1"},
